@@ -667,6 +667,9 @@ footer {
   .hero-section {
     text-align: left;
   }
+    .feature-badge img {
+    padding:10px !important;
+  }
 }
 
 @media (min-width: 992px) {
