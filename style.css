@@ -683,7 +683,7 @@ footer {
 /* Mobile */
 @media (max-width: 576px) {
   .feature-badge img {
-    height: 160px;
+    padding:10px;
   }
 
   .feature-text {
